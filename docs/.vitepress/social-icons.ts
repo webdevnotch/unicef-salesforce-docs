@@ -22,12 +22,12 @@ export function createGitHubLink(url: string, title: string, ariaLabel: string) 
 export const socialLinks = [
   createGitHubLink(
     'https://github.com/webdevnotch/unicef-salesforce-middleware',
-    'GitHub - Backend Repository',
+    'GitHub - Salesforce Middleware System Repository',
     'GitHub - Salesforce Middleware System'
   ),
   createGitHubLink(
-    'https://github.com/webdevnotch/unicef-salesforce-middleware-dashboard',
-    'GitHub - Frontend Repository',
+    'https://github.com/webdevnotch/unicef-salesforce-dashboard',
+    'GitHub - Salesforce Middleware Dashboard Repository',
     'GitHub - Salesforce Middleware Dashboard'
   ),
 ]
