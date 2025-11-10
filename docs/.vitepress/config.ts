@@ -4,7 +4,8 @@ import { socialLinks } from './social-icons'
 
 // https://vitepress.vuejs.org/config/app-configs
 export default defineConfig({
-    base: '/unicef-sf-documentation/',
+    // base: '/unicef-sf-documentation/',
+    base: '/unicef-salesforce-docs/',
     title: 'SF Platform Documentation',
     description: 'Complete documentation for Salesforce Middleware System and Dashboard',
     head: [
